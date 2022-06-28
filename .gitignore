@@ -1,4 +1,4 @@
 # Arquivos ignorados
 
 # Jupyter Notebook
-ipynb_checkpoints
+.ipynb_checkpoints
