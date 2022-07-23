@@ -1,8 +1,0 @@
-1. Regressão Linear
-
-2. Regressão Logística
-	> Geralmente utilizada nos problemas de classificação
-	
-3. KNN (K-Nearest Neighbors) (K-Vizinhos mais próximos)
-	> Usado geralmente para problemas de agrupamento ou clusterização
-	
